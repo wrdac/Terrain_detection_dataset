@@ -1,0 +1,28 @@
+<annotation>
+  <folder>
+  </folder>
+  <filename>IMG_20181029_142540_flipped_jpg.rf.35ab5a535cb05c003b722c2d1852af4e.jpg</filename>
+  <path>IMG_20181029_142540_flipped_jpg.rf.35ab5a535cb05c003b722c2d1852af4e.jpg</path>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stairs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>237</xmin>
+      <xmax>268</xmax>
+      <ymin>242</ymin>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+</annotation>

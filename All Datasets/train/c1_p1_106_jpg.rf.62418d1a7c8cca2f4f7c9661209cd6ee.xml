@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>c1_p1_106_jpg.rf.62418d1a7c8cca2f4f7c9661209cd6ee.jpg</filename>
+	<path>c1_p1_106_jpg.rf.62418d1a7c8cca2f4f7c9661209cd6ee.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crosswalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>192</xmax>
+			<ymin>20</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

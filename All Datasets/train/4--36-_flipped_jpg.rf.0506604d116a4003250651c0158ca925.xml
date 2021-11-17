@@ -1,0 +1,28 @@
+<annotation>
+  <folder>
+  </folder>
+  <filename>4--36-_flipped_jpg.rf.0506604d116a4003250651c0158ca925.jpg</filename>
+  <path>4--36-_flipped_jpg.rf.0506604d116a4003250651c0158ca925.jpg</path>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stairs</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>150</xmin>
+      <xmax>292</xmax>
+      <ymin>81</ymin>
+      <ymax>242</ymax>
+    </bndbox>
+  </object>
+</annotation>
